@@ -93,8 +93,8 @@ The schema includes a placeholder password hash. To set a proper bcrypt password
 
 | Field    | Value       |
 |----------|-------------|
-| Username | `admin`     |
-| Password | `admin123`  |
+| Username | `********`     |
+| Password | `********`  |
 
 ---
 
